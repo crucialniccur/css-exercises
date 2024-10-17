@@ -16,8 +16,16 @@ img {
   display: flex;
   justify-content: center;
   gap: 52px;
+  flex: 1;
 }
 
+.container > * {
+  width: 200px;
+}
+.item-text {
+  display: flex;
+  text-wrap: wrap;
+}
 
 .title {
   text-align: center;
