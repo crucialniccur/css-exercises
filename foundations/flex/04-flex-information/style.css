@@ -17,6 +17,10 @@ img {
   justify-content: center;
 }
 
+
+.title {
+  text-align: center;
+}
 /* do not edit this footer */
 .footer {
   position: fixed;
